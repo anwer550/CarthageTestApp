@@ -1,0 +1,41 @@
+BCSymbolMap Version: 2.0
+__T014MyNewFrameWork14TestingManagerCfD
+__T014MyNewFrameWork14TestingManagerCACycfc
+__T014MyNewFrameWork14TestingManagerCACycfcTo
+__T014MyNewFrameWork14TestingManagerCMa
+_swift_rt_swift_getInitializedObjCClass
+_swift_rt_swift_slowAlloc
+_swift_rt_swift_slowDealloc
+_OBJC_METACLASS_$__TtC14MyNewFrameWork14TestingManager
+__T014MyNewFrameWork14TestingManagerC18somePublicPropertySivWvd
+__T014MyNewFrameWork14TestingManagerCMn
+__T014MyNewFrameWork14TestingManagerCML
+__T014MyNewFrameWork14TestingManagerCMf
+__T014MyNewFrameWork14TestingManagerCMF
+__swift_FORCE_LOAD_$_swiftUIKit_$_MyNewFrameWork
+__swift_FORCE_LOAD_$_swiftFoundation_$_MyNewFrameWork
+__swift_FORCE_LOAD_$_swiftObjectiveC_$_MyNewFrameWork
+__swift_FORCE_LOAD_$_swiftDarwin_$_MyNewFrameWork
+__swift_FORCE_LOAD_$_swiftCoreFoundation_$_MyNewFrameWork
+__swift_FORCE_LOAD_$_swiftDispatch_$_MyNewFrameWork
+__swift_FORCE_LOAD_$_swiftCoreGraphics_$_MyNewFrameWork
+__swift_FORCE_LOAD_$_swiftCoreImage_$_MyNewFrameWork
+__swift_FORCE_LOAD_$_swiftMetal_$_MyNewFrameWork
+__swift_FORCE_LOAD_$_swiftQuartzCore_$_MyNewFrameWork
+___swift_reflection_version
+_objc_classes
+__T014MyNewFrameWork14TestingManagerCN
+_OBJC_CLASS_$__TtC14MyNewFrameWork14TestingManager
+Apple LLVM version 9.0.0 (clang-900.0.37)
+-emit-bc /Users/psi-macpro-001/Desktop/SampleApp/SampleApp/TestingManager.swift -target arm64-apple-ios11.0 -Xllvm -aarch64-use-tbi -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.0.sdk -I /Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/BuildProductsPath/Release-iphoneos -F /Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/BuildProductsPath/Release-iphoneos -F /Users/psi-macpro-001/Desktop/SampleApp/Carthage/Build/iOS -g -import-underlying-module -module-cache-path /Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/ModuleCache -swift-version 4 -serialize-debugging-options -Xcc -I/Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/IntermediateBuildFilesPath/SampleApp.build/Release-iphoneos/MyNewFrameWork.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/IntermediateBuildFilesPath/SampleApp.build/Release-iphoneos/MyNewFrameWork.build/MyNewFrameWork-generated-files.hmap -Xcc -I/Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/IntermediateBuildFilesPath/SampleApp.build/Release-iphoneos/MyNewFrameWork.build/MyNewFrameWork-own-target-headers.hmap -Xcc -I/Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/IntermediateBuildFilesPath/SampleApp.build/Release-iphoneos/MyNewFrameWork.build/MyNewFrameWork-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/IntermediateBuildFilesPath/SampleApp.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/IntermediateBuildFilesPath/SampleApp.build/Release-iphoneos/MyNewFrameWork.build/MyNewFrameWork-project-headers.hmap -Xcc -I/Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/BuildProductsPath/Release-iphoneos/include -Xcc -I/Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/IntermediateBuildFilesPath/SampleApp.build/Release-iphoneos/MyNewFrameWork.build/DerivedSources/arm64 -Xcc -I/Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/IntermediateBuildFilesPath/SampleApp.build/Release-iphoneos/MyNewFrameWork.build/DerivedSources -Xcc -ivfsoverlay -Xcc /Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/IntermediateBuildFilesPath/SampleApp.build/Release-iphoneos/MyNewFrameWork.build/unextended-module-overlay.yaml -Xcc -working-directory/Users/psi-macpro-001/Desktop/SampleApp -emit-module-doc-path /Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/IntermediateBuildFilesPath/SampleApp.build/Release-iphoneos/MyNewFrameWork.build/Objects-normal/arm64/MyNewFrameWork.swiftdoc -serialize-diagnostics-path /Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/IntermediateBuildFilesPath/SampleApp.build/Release-iphoneos/MyNewFrameWork.build/Objects-normal/arm64/TestingManager.dia -O -parse-as-library -module-name MyNewFrameWork -emit-module-path /Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/IntermediateBuildFilesPath/SampleApp.build/Release-iphoneos/MyNewFrameWork.build/Objects-normal/arm64/MyNewFrameWork.swiftmodule -emit-objc-header-path /Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/IntermediateBuildFilesPath/SampleApp.build/Release-iphoneos/MyNewFrameWork.build/Objects-normal/arm64/MyNewFrameWork-Swift.h -emit-dependencies-path /Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/IntermediateBuildFilesPath/SampleApp.build/Release-iphoneos/MyNewFrameWork.build/Objects-normal/arm64/TestingManager.d -num-threads 4 -o /Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/IntermediateBuildFilesPath/SampleApp.build/Release-iphoneos/MyNewFrameWork.build/Objects-normal/arm64/TestingManager.bc -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+<swift-imported-modules>
+/Users/psi-macpro-001/Desktop/SampleApp
+Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)
+/Users/psi-macpro-001/Desktop/SampleApp/SampleApp/TestingManager.swift
+_T014MyNewFrameWork14TestingManagerCMa
+TestingManager.swift
+/Users/psi-macpro-001/Desktop/SampleApp/SampleApp
+get_field_types_TestingManager
+init
+deinit
+/Users/psi-macpro-001/Library/Developer/Xcode/DerivedData/SampleApp-aiwtblcaakdxldcvfcpjtoolffxw/Build/Intermediates.noindex/ArchiveIntermediates/MyNewFrameWork/IntermediateBuildFilesPath/SampleApp.build/Release-iphoneos/MyNewFrameWork.build/DerivedSources/MyNewFrameWork_vers.c
