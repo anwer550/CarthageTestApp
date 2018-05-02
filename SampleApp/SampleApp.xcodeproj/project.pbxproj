@@ -17,15 +17,15 @@
 		EC6959A020984646009A3EE9 /* AlamofireImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC69599E20984646009A3EE9 /* AlamofireImage.framework */; };
 		EC6959A120984646009A3EE9 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC69599F20984646009A3EE9 /* Alamofire.framework */; };
 		EC6959B82098A8B1009A3EE9 /* TestFWTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC6959B72098A8B1009A3EE9 /* TestFWTests.swift */; };
-		EC6959C82099B93A009A3EE9 /* TestingManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC6959C72099B93A009A3EE9 /* TestingManager.swift */; };
+		EC6959C82099B93A009A3EE9 /* APIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC6959C72099B93A009A3EE9 /* APIManager.swift */; };
 		EC6959D72099BB7E009A3EE9 /* MyNewFrameWork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC6959CE2099BB7D009A3EE9 /* MyNewFrameWork.framework */; };
 		EC6959DE2099BB7E009A3EE9 /* MyNewFrameWorkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC6959DD2099BB7E009A3EE9 /* MyNewFrameWorkTests.swift */; };
 		EC6959E02099BB7E009A3EE9 /* MyNewFrameWork.h in Headers */ = {isa = PBXBuildFile; fileRef = EC6959D02099BB7D009A3EE9 /* MyNewFrameWork.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		EC6959E32099BB7E009A3EE9 /* MyNewFrameWork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC6959CE2099BB7D009A3EE9 /* MyNewFrameWork.framework */; };
 		EC6959E42099BB7E009A3EE9 /* MyNewFrameWork.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = EC6959CE2099BB7D009A3EE9 /* MyNewFrameWork.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		EC6959EC2099BC06009A3EE9 /* TestingManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC6959C72099B93A009A3EE9 /* TestingManager.swift */; };
 		EC6959ED2099BDCA009A3EE9 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC69599F20984646009A3EE9 /* Alamofire.framework */; };
 		EC6959EE2099BDCA009A3EE9 /* AlamofireImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC69599E20984646009A3EE9 /* AlamofireImage.framework */; };
+		EC695A172099D686009A3EE9 /* APIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC6959C72099B93A009A3EE9 /* APIManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -108,7 +108,7 @@
 		EC6959B02098A8B1009A3EE9 /* TestFWTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestFWTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC6959B72098A8B1009A3EE9 /* TestFWTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestFWTests.swift; sourceTree = "<group>"; };
 		EC6959B92098A8B1009A3EE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		EC6959C72099B93A009A3EE9 /* TestingManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingManager.swift; sourceTree = "<group>"; };
+		EC6959C72099B93A009A3EE9 /* APIManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
 		EC6959CE2099BB7D009A3EE9 /* MyNewFrameWork.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MyNewFrameWork.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EC6959D02099BB7D009A3EE9 /* MyNewFrameWork.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyNewFrameWork.h; sourceTree = "<group>"; };
 		EC6959D12099BB7D009A3EE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -202,7 +202,7 @@
 			children = (
 				EC69596F20983C0B009A3EE9 /* AppDelegate.swift */,
 				EC69597120983C0B009A3EE9 /* ViewController.swift */,
-				EC6959C72099B93A009A3EE9 /* TestingManager.swift */,
+				EC6959C72099B93A009A3EE9 /* APIManager.swift */,
 				EC69597320983C0B009A3EE9 /* Main.storyboard */,
 				EC69597620983C0B009A3EE9 /* Assets.xcassets */,
 				EC69597820983C0B009A3EE9 /* LaunchScreen.storyboard */,
@@ -534,7 +534,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EC69597220983C0B009A3EE9 /* ViewController.swift in Sources */,
-				EC6959C82099B93A009A3EE9 /* TestingManager.swift in Sources */,
+				EC6959C82099B93A009A3EE9 /* APIManager.swift in Sources */,
 				EC69597020983C0B009A3EE9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -567,7 +567,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EC6959EC2099BC06009A3EE9 /* TestingManager.swift in Sources */,
+				EC695A172099D686009A3EE9 /* APIManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
